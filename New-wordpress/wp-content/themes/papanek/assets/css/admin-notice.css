@@ -1,0 +1,6 @@
+#papanek-notice {
+    display: flex;
+    padding: 12px;
+    gap: 12px;
+    flex-wrap: wrap;
+}
