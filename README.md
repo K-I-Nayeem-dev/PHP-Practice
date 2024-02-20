@@ -41,5 +41,4 @@ This project is licensed under the [MIT License](LICENSE).
 - PHP Documentation: [PHP Manual](https://www.php.net/manual/en/)
 - Stack Overflow: [stackoverflow.com](https://stackoverflow.com/) for community support and learning resources.
 
-## Contact
-For any inquiries or issues, please contact [Your Name] at [your@email.com].
+
